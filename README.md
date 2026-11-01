@@ -1,6 +1,5 @@
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="9289514912485938175" data-share-method="host" data-aspect-ratio="1.79137" data-width="100%"><a href="https://tenor.com/view/%E3%81%8B%E3%81%BF%E5%A4%AA-gif-9289514912485938175">かみ太 GIF</a>from <a href="https://tenor.com/search/%E3%81%8B%E3%81%BF%E5%A4%AA-gifs">かみ太 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+  <img src="https://media1.tenor.com/m/gOr8mE5rE_8AAAAC/%E3%81%8B%E3%81%BF%E5%A4%AA.gif" alt="Anime GIF" width="450"/>
   # Привет, я Андрей! 🕸️
 
   Я разработчик, увлекаюсь программированием и созданием интересных проектов. 
