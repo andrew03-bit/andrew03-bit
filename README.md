@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/V80llXf734WzK/giphy.gif" alt="Hunter x Hunter Killua" width="450"/>
+  <img src="[https://media.giphy.com/media/V80llXf734WzK/giphy.gif" alt="Hunter x Hunter Killua](https://media1.tenor.com/m/by6sIv4Lv5AAAAAC/ganknation-webop.gif)" width="450"/>
 
   # Привет, я Андрей! 🕸️
 
@@ -14,5 +14,5 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 
   ### 📫 Как со мной связаться:
-  **Telegram:** [@ваш_ник](https://t.me/ваш_ник)
+  **Telegram:** [@Andrew_24_04](https://t.me/Andrew_24_04)
 </div>
