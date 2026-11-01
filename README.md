@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/gOr8mE5rE_8AAAAC/%E3%81%8B%E3%81%BF%E5%A4%AA.gif" alt="Anime GIF" width="450"/>
+
+  
   # Привет, я Андрей! 🕸️
 
   Я разработчик, увлекаюсь программированием и созданием интересных проектов. 
